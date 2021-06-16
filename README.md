@@ -1,7 +1,10 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
+ 
+<p> Hi, there! <p>
+  
 <p align="left"> 
-  Hi, there! I'm Sérgio and I want to become a <strong>Front-End Developer</strong>.<br>
+  I'm Sérgio and I want to become a <strong>Front-End Developer</strong>.<br>
   I am undergraduated in Business Administration and I study Web Development.
 </p>
 
@@ -24,4 +27,8 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//sergiosaraiva/"/></a>
 
   <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511945149244"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511945149244"/></a> <br>
+
+  <br>
+  
+  [![card](https://github-readme-stats.vercel.app/api?username=sergiossdev&theme=tokyonight)](https://github.com/sergiossdev/)
